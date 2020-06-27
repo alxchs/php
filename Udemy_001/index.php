@@ -1,5 +1,5 @@
 <?php
 
-echo "Meu primeiro código <strong>php</strong>. Alterado no Github";
+echo "Meu primeiro código <strong>php</strong>. Geração de conflito. Alterado no Github";
 
 ?>
